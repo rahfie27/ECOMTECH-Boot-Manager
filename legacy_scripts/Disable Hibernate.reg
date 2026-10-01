@@ -1,0 +1,8 @@
+﻿Windows Registry Editor Version 5.00
+
+; MajorGeeks.Com
+; https://www.majorgeeks.com/content/page/how_to_disable_or_enable_hibernate_in_windows_10.html
+
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power]
+"HibernateEnabled"=dword:00000000
