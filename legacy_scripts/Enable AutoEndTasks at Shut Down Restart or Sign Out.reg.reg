@@ -1,0 +1,9 @@
+﻿Windows Registry Editor Version 5.00
+
+; MajorGeeks.Com
+; How to Disable AutoEndTasks at Shut Down, Restart, or Sign Out
+; https://www.majorgeeks.com/content/page/how_to_disable_autoendtasks_at_shut_downrestartor_sign_out.html
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"AutoEndTasks"="1"
+
