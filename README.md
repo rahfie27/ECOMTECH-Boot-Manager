@@ -1,3 +1,5 @@
+<img src="https://www.upload.ee/image/19807439/2026-10-02_031006.png" border="0" alt="2026-10-02_031006.png" />
+
 # ECOMTECH Boot Manager
 
 ECOMTECH Boot Manager is a Windows-focused desktop utility for inspecting and managing boot, recovery, power, and startup settings through a PyQt6 graphical interface.
