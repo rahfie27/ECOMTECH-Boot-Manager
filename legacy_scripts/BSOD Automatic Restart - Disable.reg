@@ -1,0 +1,10 @@
+﻿Windows Registry Editor Version 5.00
+
+; MajorGeeks.Com
+; https://www.majorgeeks.com/content/page/disable_bsod_auto_restart.html
+: Tutorial: How to Enable or Disable Blue Screen of Death (BSOD) Auto Restart in Windows 10
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\CrashControl]
+"AutoReboot"=dword:00000000
+
+
